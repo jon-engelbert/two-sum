@@ -1,2 +1,3 @@
 # two-sum
-solution to two-sum challenge on leetcode
+solutions to two-sum challenge on leetcode
+Java, Ruby
